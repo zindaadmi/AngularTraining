@@ -1,0 +1,19 @@
+h1{
+    color: Green;
+}
+th{
+    color: yellowgreen;
+    background-color: black;
+}
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: lightcoral;
+color: Lightgray;
+text-align: center;
+}
+a{
+    color: Black;
+}
